@@ -1,3 +1,6 @@
+This is a forked repo from the original <a href="https://github.com/seg/2016-ml-contest">SEG repo</a>. My work is in the Pet Stromatolite <a href="https://github.com/JustinGOSSES/2016-ml-contest/tree/master/Pet_Stromatolite">folder</a>. The final scores for the contest can be found <a href="https://github.com/seg/2016-ml-contest"> here</a>. I got more or less 7th. The ambiguity comes from only the top team's final model being run many times and a stochastic F1 score used to rank. The rest of the entries were ordered based on a single prediction comparison with the blind wells. This was an open-source contest, so we could see each others work as it was submitted. 
+
+=====================================================
 # 2016-ml-contest
 
 Welcome to the *Geophysical Tutorial* Machine Learning Contest 2016! Read all about the contest in [the October 2016 issue](http://library.seg.org/toc/leedff/35/10) of the magazine. Look for Brendon Hall's tutorial on lithology prediction with machine learning.
